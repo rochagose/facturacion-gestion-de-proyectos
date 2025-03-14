@@ -1,0 +1,155 @@
+C:\Users\Nestor\source\repos\proyectofacturacion\proyectofacturacion\bin\Debug\proyectofacturacion.exe.config
+C:\Users\Nestor\source\repos\proyectofacturacion\proyectofacturacion\bin\Debug\proyectofacturacion.exe
+C:\Users\Nestor\source\repos\proyectofacturacion\proyectofacturacion\bin\Debug\proyectofacturacion.pdb
+C:\Users\Nestor\source\repos\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.csproj.AssemblyReference.cache
+C:\Users\Nestor\source\repos\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.Form1.resources
+C:\Users\Nestor\source\repos\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.Properties.Resources.resources
+C:\Users\Nestor\source\repos\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.csproj.GenerateResource.cache
+C:\Users\Nestor\source\repos\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.csproj.CoreCompileInputs.cache
+C:\Users\Nestor\source\repos\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.exe
+C:\Users\Nestor\source\repos\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.pdb
+C:\Users\Nestor\source\repos\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.splash.resources
+C:\Users\Nestor\source\repos\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.Form2.resources
+C:\Users\Nestor\source\repos\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.Form3.resources
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.csproj.AssemblyReference.cache
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.DirectorMP.resources
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.Log.resources
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.Login.resources
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.AltaEmisor.resources
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.ContadorMP.resources
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.splash.resources
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.Properties.Resources.resources
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.csproj.GenerateResource.cache
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.csproj.CoreCompileInputs.cache
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\CADC FACTURACION.db
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\proyectofacturacion.exe.config
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\proyectofacturacion.exe
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\proyectofacturacion.pdb
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\EntityFramework.dll
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\System.Data.SQLite.dll
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\EntityFramework.xml
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\System.Data.SQLite.xml
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyecto.5B9570EE.Up2Date
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.exe
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.pdb
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.GestionAlumnos.resources
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.GestionPadres.resources
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.AltaPadre.resources
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.AltaAlumno.resources
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\itextsharp.dll
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\itextsharp.xml
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.GestionUsuarios.resources
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Aguascalientes.txt
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\BajaCalifornia.txt
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\BajaCaliforniaSur.txt
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Campeche.txt
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\CDMX.txt
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Chiapas.txt
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Chihuahua.txt
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Coahuila.txt
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Colima.txt
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Durango.txt
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\EdoMex.txt
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Guanajuato.txt
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Guerrero.txt
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Hidalgo.txt
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Jalisco.txt
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Michoacan.txt
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Morelos.txt
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Nayarit.txt
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\NuevoLeon.txt
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Oaxaca.txt
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Puebla.txt
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Queretaro.txt
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\QuintanaRoo.txt
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\SanLuisPotosi.txt
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Sinaloa.txt
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Sonora.txt
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Tabasco.txt
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Tamaulipas.txt
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Tlaxcala.txt
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Veracruz.txt
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Yucatan.txt
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Zacatecas.txt
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.ModificarAlumno.resources
+C:\Users\rocha\OneDrive\Escritorio\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.ModificarPadre.resources
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\x86\sqlite3.dll
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\x64\sqlite3.dll
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\CADC FACTURACION.db
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Aguascalientes.txt
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\BajaCalifornia.txt
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\BajaCaliforniaSur.txt
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Campeche.txt
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\CDMX.txt
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Chiapas.txt
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Chihuahua.txt
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Coahuila.txt
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Colima.txt
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Durango.txt
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\EdoMex.txt
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Guanajuato.txt
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Guerrero.txt
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Hidalgo.txt
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Jalisco.txt
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Michoacan.txt
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Morelos.txt
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Nayarit.txt
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\NuevoLeon.txt
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Oaxaca.txt
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Puebla.txt
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Queretaro.txt
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\QuintanaRoo.txt
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\SanLuisPotosi.txt
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Sinaloa.txt
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Sonora.txt
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Tabasco.txt
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Tamaulipas.txt
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Tlaxcala.txt
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Veracruz.txt
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Yucatan.txt
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\Municipios\Zacatecas.txt
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\proyectofacturacion.exe.config
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\proyectofacturacion.exe
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\proyectofacturacion.pdb
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\EntityFramework.dll
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\itextsharp.dll
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\System.Data.SQLite.dll
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\EntityFramework.xml
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\itextsharp.xml
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\System.Data.SQLite.xml
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.csproj.AssemblyReference.cache
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.AltaAlumno.resources
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.AltaPadre.resources
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.DirectorMP.resources
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.Facturacion.resources
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.GestionAlumnos.resources
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.GestionPadres.resources
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.GestionUsuarios.resources
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.Log.resources
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.Login.resources
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.AltaEmisor.resources
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.ContadorMP.resources
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.ModificarAlumno.resources
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.ModificarPadre.resources
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.splash.resources
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.Properties.Resources.resources
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.csproj.GenerateResource.cache
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.csproj.CoreCompileInputs.cache
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyecto.5B9570EE.Up2Date
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.exe
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\obj\Debug\proyectofacturacion.pdb
+C:\Users\Rocha\Desktop\GPS FACTURACION\GPS FACTURACION\proyectofacturacion\proyectofacturacion\bin\Debug\QRCoder.dll

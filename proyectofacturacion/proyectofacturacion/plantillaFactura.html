@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Factura</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f3f3f3;
+            margin: 0;
+            padding: 0;
+        }
+        header, section, footer {
+            margin: 20px;
+            padding: 15px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .header-content {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .header-content img {
+            height: 80px;
+        }
+        h1 {
+            color: #005c3c;
+        }
+        h2 {
+            color: #009e60;
+            border-bottom: 2px solid #009e60;
+            padding-bottom: 5px;
+        }
+        .factura-info, .receptor-info, .detalle-servicio, .total-info {
+            border: 1px solid #ddd;
+            padding: 10px;
+            background-color: #f9f9f9;
+        }
+        .total-info {
+            font-weight: bold;
+            background-color: #e7f5ee;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="header-content">
+            <div>
+                <h1>Factura @(Número de Factura)</h1>
+                <p>Fecha de emisión: @(Fecha de emisión)</p>
+                <p>Fecha de certificación: @(Fecha de certificación)</p>
+                <p>Código postal de expedición: @(Código Postal)</p>
+            </div>
+            <div>
+                <img src="@(URL del Logo)" alt="Logo de la Institución">
+            </div>
+        </div>
+    </header>
+
+    <section class="factura-info">
+        <h2>Datos Fiscales</h2>
+        <p>RFC: @(RFC Emisor)</p>
+        <p>Régimen Fiscal: @(Régimen Fiscal Emisor)</p>
+        <p>Folio SAT: @(Folio SAT)</p>
+        <p>Número serie del certificado SAT: @(Certificado SAT)</p>
+        <p>Número de serie certificado emisor: @(Certificado Emisor)</p>
+    </section>
+
+    <section class="receptor-info">
+        <h2>Receptor</h2>
+        <p>Nombre: @(Nombre Receptor)</p>
+        <p>RFC: @(RFC Receptor)</p>
+        <p>Uso CFDI: @(Uso CFDI)</p>
+        <p>Régimen Fiscal: @(Régimen Fiscal Receptor)</p>
+        <p>Domicilio Fiscal: @(Domicilio Fiscal)</p>
+    </section>
+
+    <section class="detalle-servicio">
+        <h2>Detalle del Servicio</h2>
+        <p>Descripción: @(Descripción)</p>
+        <p>Importe: @(Importe)</p>
+        <p>Tipo de comprobante: @(Tipo de comprobante)</p>
+        <p>Método de pago: @(Método de pago)</p>
+        <p>Moneda: @(Moneda)</p>
+    </section>
+
+    <section class="total-info">
+        <h2>Total</h2>
+        <p>Total en MXN: @(Total MXN)</p>
+        <p>(@(Total en letra))</p>
+    </section>
+
+    <footer>
+        <p>Este documento es una representación impresa de un CFDI.</p>
+    </footer>
+
+</body>
+</html>
